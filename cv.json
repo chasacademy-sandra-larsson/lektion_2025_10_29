@@ -1,0 +1,25 @@
+{
+  "work": [
+    {
+        "title": "Hemköp",
+        "fromYear": 2010,
+        "toYear": 2014
+    },
+      {
+        "title": "Lärarvikarie",
+        "fromYear": 2014,
+        "toYear": 2016
+    }
+
+  ],
+
+  "studies": [
+    {
+        "institution": "Malmö högskola",
+        "fromYear": 2008,
+        "toYear": 2012
+    }
+  ]
+
+
+}
